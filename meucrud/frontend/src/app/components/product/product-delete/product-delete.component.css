@@ -8,3 +8,7 @@ button {
     margin: 20px 15px 0px 0px;
 }
 
+.bt{
+    background-color: rgb(242, 0, 0);
+    color: white;
+}
