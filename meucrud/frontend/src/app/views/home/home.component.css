@@ -1,0 +1,22 @@
+.card{
+    background-color: rgb(255, 241, 241);
+   
+}
+
+.title{
+    font-size: 3rem;
+    font-weight: 400;
+    line-height: 1.2;
+    text-align: center;
+}
+
+.subtitle{
+    font-size: 1.2em;
+    text-align: center;
+    align-items: center;
+}
+
+.contimg{
+    display: flex;
+    place-content: center;
+}

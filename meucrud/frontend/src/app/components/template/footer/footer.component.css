@@ -1,0 +1,14 @@
+.foot{
+    color: white;
+    font-size: 12px;
+    font-weight: 400;
+}
+
+.footer{
+    position: fixed;
+    bottom:0;
+    height: 40px;
+    display: flex;
+    justify-content: flex-end;
+    z-index: 1;
+}

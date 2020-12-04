@@ -1,0 +1,17 @@
+.header {
+    display: flex;
+    align-items: center;
+    background-color: rgb(242, 0, 0);
+    z-index: 3;
+}
+
+.header a{
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+}
+
+.header .logo{
+    height: 64px;
+}
+

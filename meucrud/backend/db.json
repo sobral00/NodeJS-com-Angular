@@ -1,0 +1,29 @@
+{
+  "products": [
+    {
+      "name": "Corsa",
+      "price": "89.99",
+      "id": 1
+    },
+    {
+      "name": "Honda",
+      "price": "97.99",
+      "id": 2
+    },
+    {
+      "name": "Fiat",
+      "price": "71.88",
+      "id": 3
+    },
+    {
+      "name": "Voyage",
+      "price": "150.98",
+      "id": 4
+    },
+    {
+      "name": "Ferrari",
+      "price": "980.00",
+      "id": 5
+    }
+  ]
+}
