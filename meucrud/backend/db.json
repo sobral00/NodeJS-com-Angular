@@ -17,13 +17,8 @@
     },
     {
       "name": "Voyage",
-      "price": "150.98",
+      "price": "112.98",
       "id": 4
-    },
-    {
-      "name": "Ferrari",
-      "price": "980.00",
-      "id": 5
     }
   ]
 }
