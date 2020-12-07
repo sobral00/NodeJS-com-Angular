@@ -23,11 +23,11 @@
         <th mat-header-cell *matHeaderCellDef>Ações</th>
         <td mat-cell *matCellDef="let row">
             <a routerLink="/products/update/{{ row.id }}" class="edit">
-                <i class="material-icons">
+                <i class="material-icons" title="Atualizar este veículo.">
                     edit
                 </i>
             </a>
-            <a routerLink="/products/delete/{{ row.id }}" class="delete">
+            <a routerLink="/products/delete/{{ row.id }}" class="delete" title="Deletar este veículo.">
                 <i class="material-icons">
                     delete
                 </i>
