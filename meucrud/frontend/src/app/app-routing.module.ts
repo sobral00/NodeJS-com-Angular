@@ -7,18 +7,6 @@ import { HomeComponent } from "./views/home/home.component";
 import { ProductCrudComponent } from "./views/product-crud/product-crud.component";
 import { ProductCreateComponent } from './components/product/product-create/product-create.component';
 
-var express = require('express')
-var cors = require('cors')
-var app = express()
-
-app.use(cors())
-
-var corsOptions = {
-  origin: 'http://18.223.132.11:3001/products',
-  optionsSuccessStatus: 200
-}
-
-app.use(cors(corsOptions))
 
 const routes: Routes = [
   {
